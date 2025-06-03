@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Max",
+      "description": "Classic running shoes with Air technology",
+      "price": 129.99,
+      "category": "shoes",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Wireless Headphones",
+      "description": "Bluetooth over-ear headphones with noise cancellation",
+      "price": 199.99,
+      "category": "electronics",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Cotton T-Shirt",
+      "description": "Comfortable basic cotton t-shirt",
+      "price": 19.99,
+      "category": "clothing",
+      "stock": 100
+    }
+  ]
+}
